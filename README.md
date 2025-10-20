@@ -1,5 +1,3 @@
-# Atividades-de-EDA-tomorrow-UFBA
-
 # 💻 Atividades de Estruturas de Dados e Algoritmos
 
 Este repositório armazena minhas soluções para os exercícios e atividades do curso de Estruturas de Dados e Algoritmos. O foco é praticar conceitos essenciais e algoritmos fundamentais em C++.
